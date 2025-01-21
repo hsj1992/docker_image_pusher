@@ -1,7 +1,10 @@
-nginx
+#nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-netboxcommunity/netbox:latest
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
+
+docker.io/netboxcommunity/netbox:${VERSION-v4.2-3.1.1}
+docker.io/postgres:17-alpine
+docker.io/valkey/valkey:8.0-alpine
