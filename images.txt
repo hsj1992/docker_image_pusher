@@ -6,5 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 netboxcommunity/netbox:latest
-postgres:17-alpine
+postgres:16-alpine
 valkey/valkey:8.0-alpine
