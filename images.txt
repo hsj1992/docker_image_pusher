@@ -7,4 +7,5 @@
 
 netboxcommunity/netbox:latest
 postgres:16-alpine
+postgres:17-alpine
 valkey/valkey:8.0-alpine
