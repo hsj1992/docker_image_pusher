@@ -10,3 +10,4 @@ tindy2013/subconverter:latest
 xream/sub-store:latest
 6053537/portainer-ce:latest
 xubiaolin/zerotier-planet:latest
+ghcr.io/tchapi/davis:latest
